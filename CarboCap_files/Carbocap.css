@@ -3163,7 +3163,7 @@ figcaption {
 
 .cta-section {
   background-color: var(--black);
-  background-image: url('./CarboCap_files/Assets/Page3_Pattern.png');
+  background-image: url("/CarboCap_files/Assets/Page3_Pattern.png");
   background-position: 50%;
   background-size: contain;
   margin: 0 0 90px;
