@@ -3053,7 +3053,7 @@ figcaption {
 
 .opening-page {
   background-color: #C2F9BB;
-  background-image: url("");
+  background-image: url("/CarboCap_files/Assets/Page_1_Earth.svg");
   background-position: 50%;
   background-size: cover;
   height: 100vh;
@@ -3697,7 +3697,7 @@ figcaption {
   }
 
   .headshot-1 {
-    background-image: url("");
+    background-image: url("/CarboCap_files/Assets/Profile_Soham.png");
     background-position: 50%;
     background-size: cover;
     height: 450px;
@@ -3726,7 +3726,7 @@ figcaption {
   }
 
   .headshot {
-    background-image: url("");
+    background-image: url("/CarboCap_files/Assets/Profile_Mayur.png");
     background-position: 50%;
     background-size: cover;
     height: 450px;
@@ -4133,7 +4133,7 @@ figcaption {
   }
 
   .opening-page {
-    background-image: url("");
+    background-image: url("/CarboCap_files/Assets/Page_1_Earth.svg");
     height: 100vh;
     margin-bottom: 60px;
   }
@@ -4466,7 +4466,7 @@ figcaption {
   }
 
   .opening-page {
-    background-image: url("");
+    background-image: url("/CarboCap_files/Assets/Page_1_Earth.svg");
     background-position: 50%;
     height: 100vh;
     margin-bottom: 50px;
